@@ -1,0 +1,4 @@
+repository "GameEdu@dennis228good@cloud"
+  path "/"
+    br "/main"
+    co "/main"
